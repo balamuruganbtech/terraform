@@ -1,0 +1,11 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Sid": "Stmt1606640712141",
+        "Action": "cloudwatch:*",
+        "Effect": "Allow",
+        "Resource": "*"
+      }
+    ]
+  }
